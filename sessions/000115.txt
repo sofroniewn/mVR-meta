@@ -1,0 +1,24 @@
+session: 
+  date: '2016-07-09-12:14',
+  
+  animal: {
+    number: 146,
+    weightBefore: 24.7,
+    weightAfter: 24.8,
+    waterGiven: 1.4,
+  }
+
+  behavior: {
+    lickDetection: false,
+    boxLights: false,
+    wallLeft: true,
+    wallRight: true,
+    wallFront: true,
+    water: true,
+    shelter: true,
+    protocol: ‘unbiased’,
+  }
+
+  location: '2C.384',
+  experimentor: 'Maya Jay',
+}
